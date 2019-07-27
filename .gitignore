@@ -1,0 +1,56 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+#eclipse specific
+.metadata/*
+.settings
+
+#intellij specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode specific
+.vscode/
+
+#gradle specific
+.gradle/
+
+#temp build
+[Bb]uild*/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+
+#debug specific
+*.log
+
+# Flutter/Dart/Pub related
+doc/api/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+/build/
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+#windows Junk
+*.ini
+[Tt]humbs.db
+*.DS_Store
+
+out
+libs/*
+.classpath
+.project
