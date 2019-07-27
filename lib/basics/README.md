@@ -1,4 +1,4 @@
-# Overview
+# OVERVIEW
 Dart is an object-oriented language with C-style syntax which can optionally trans compile into JavaScript. It supports 
 a varied range of programming aids like interfaces, classes, collections, generics, and optional typing. Dart can be 
 extensively used to create single-page applications. 
@@ -12,7 +12,7 @@ the Dart VM.
 
 Using Dartium means you don’t have to compile your code to JavaScript until you’re ready to test on other browsers.
 
-# Environment
+# ENVIRONMENT
 You may test your scripts online by using the online editor at: [dartlang.org](https://dartpad.dartlang.org/) 
 
 The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with 
@@ -31,7 +31,7 @@ To set up the local environment:
     * Click Create New Project from the Welcome Screen
     * In the next dialog box, click Dart
     * If there is no value specified for the Dart SDK path, then provide the SDK path.
-    * Tick the generate sample application and select *Console Application*
+    * Tick the generate sample application and select **Console Application**
 - To add a Dart file to the Project:
     * Right-click on the Project
     * New → Dart File
@@ -49,7 +49,7 @@ dart2js -O1 -o <output_file>.js  <dart_script>.dart
 This command produces a file that contains the JavaScript equivalent of your Dart code. A complete tutorial on using 
 this utility can be found on the official Dart website.
 
-# Syntax
+# SYNTAX
 Syntax defines a set of rules for writing programs. Every language specification defines its own syntax. A Dart program 
 is composed of: 
 - Variables and Operators

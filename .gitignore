@@ -27,12 +27,8 @@
 
 #temp build
 [Bb]uild*/
-[Bb]in/
 [Dd]ebug*/
 [Rr]elease*/
-
-#debug specific
-*.log
 
 # Flutter/Dart/Pub related
 doc/api/
