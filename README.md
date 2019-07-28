@@ -1,4 +1,7 @@
 ## Dart Programming Tutorial
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d39c39899ce4a199753b7c73b35d8f1)](https://app.codacy.com/app/wasulabenjamin/dartbasics?utm_source=github.com&utm_medium=referral&utm_content=wasulabenjamin/dartbasics&utm_campaign=Badge_Grade_Dashboard)
+
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as 
 a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by 
 Google, the Dart SDK ships with its compiler – the Dart VM.
